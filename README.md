@@ -61,3 +61,12 @@ BUGS found :
 
 Issues up for discussion with developer/PM:
 1. Should a post call without a message body to create a post using /posts api succeed?
+
+Next steps :
+1) Test the /comments, /albums, /photos, /todos, /users api
+2) Test http vs https
+3) Mark tests as sanity vs regression
+4) Add load testing scenarios
+5) Add tests with different data types (localised, different data formats)
+6) Add db tests
+7) Add tests for documentation

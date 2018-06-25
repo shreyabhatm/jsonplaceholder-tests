@@ -1,5 +1,7 @@
 # jsonplaceholder-tests
-API tests for jsonplaceholder - a simple fake REST API
+API tests for jsonplaceholder - a simple fake REST API.
+API here : https://github.com/shreyabhatm/jsonplaceholder-tests
+Source code here : http://jsonplaceholder.typicode.com/
 
 Language used + version:
   Java 1.8
